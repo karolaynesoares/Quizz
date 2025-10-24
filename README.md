@@ -34,6 +34,13 @@ git clone https://github.com/olucassantos/Quizz.git
 cd Quizz
 ```
 
+### 1.1. Criando projeto do Zero
+
+```bash
+composer create-project laravel/laravel Quizz
+cd Quizz
+```
+
 ### 2. Instalando Dependências
 
 ```bash
