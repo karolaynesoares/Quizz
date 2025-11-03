@@ -30,4 +30,12 @@ class PerguntaController extends Controller
             compact('perguntas')
         );
     }
+
+
+public function processarRespostas(Request $request)
+
+
+{
+    dd($request->all());
+}
 }
